@@ -28,8 +28,8 @@ Este proyecto es un conversor de monedas simple desarrollado en C. Permite a los
 
  5. Ejecuta el programa:
 
-   ``` bash
-   ./conversor fds
+   ``bash
+   ./conversor
 
 ## Uso
 
