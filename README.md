@@ -30,7 +30,7 @@ Este proyecto es un conversor de monedas simple desarrollado en C. Permite a los
 
    ```bash
    ./conversor
-```
+   ```
 ## Uso
 
 El programa mostrará un menú con las opciones de conversión disponibles.
