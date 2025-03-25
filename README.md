@@ -53,6 +53,6 @@ El programa mostrará el resultado de la conversión.
 
 ## Autor
 
-Antulio Velasquez - antulio.velasquez@galileo.edu - carnet 24006945
+Antulio Velasquez - antulio.velasquez@galileo.edu - carnet 24006945.
 
 
