@@ -31,7 +31,7 @@ Este proyecto es un conversor de monedas simple desarrollado en C. Permite a los
    ```bash
    ./conversor
 
-## Uso
+6. Uso
 
 El programa mostrará un menú con las opciones de conversión disponibles.
 Ingresa el número de la opción deseada y presiona Enter.
