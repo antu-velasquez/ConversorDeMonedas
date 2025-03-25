@@ -28,10 +28,10 @@ Este proyecto es un conversor de monedas simple desarrollado en C. Permite a los
 
  5. Ejecuta el programa:
 
-   ```bash
-   ./conversor
+   ``` bash
+   ./conversor fds
 
-6. Uso
+## Uso
 
 El programa mostrará un menú con las opciones de conversión disponibles.
 Ingresa el número de la opción deseada y presiona Enter.
